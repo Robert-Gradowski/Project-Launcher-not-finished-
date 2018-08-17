@@ -1,0 +1,11 @@
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\bin\Debug\netcoreapp2.0\APIwithJWT.deps.json
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\bin\Debug\netcoreapp2.0\APIwithJWT.runtimeconfig.json
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\bin\Debug\netcoreapp2.0\APIwithJWT.runtimeconfig.dev.json
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\bin\Debug\netcoreapp2.0\APIwithJWT.dll
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.csproj.CoreCompileInputs.cache
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.AssemblyInfoInputs.cache
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.AssemblyInfo.cs
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\bin\Debug\netcoreapp2.0\APIwithJWT.pdb
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.dll
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.pdb
+C:\Users\Robson1608\source\repos\APIwithJWT\APIwithJWT\obj\Debug\netcoreapp2.0\APIwithJWT.csprojResolveAssemblyReference.cache

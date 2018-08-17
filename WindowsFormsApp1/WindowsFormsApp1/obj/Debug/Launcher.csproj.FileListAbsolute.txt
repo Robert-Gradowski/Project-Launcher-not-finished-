@@ -1,0 +1,15 @@
+c:\users\robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Launcher.csproj.GenerateResource.cache
+c:\users\robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.Client.resources
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.InfoMessage.resources
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.Settings.resources
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.Properties.Resources.resources
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DiamondStories.exe.config
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DiamondStories.exe
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DiamondStories.pdb
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.exe
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DiamondStories.pdb
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robson1608\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Launcher.csproj.CopyComplete
